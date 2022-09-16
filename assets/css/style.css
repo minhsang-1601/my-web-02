@@ -377,6 +377,7 @@
    /* Map section */
    .map-section img{
     width: 100%;
+    z-index: 1;
    }
     /* Footer section */
 
