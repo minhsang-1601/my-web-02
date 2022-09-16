@@ -184,7 +184,7 @@
     position: relative;
     margin-top: 46px;
     padding-top: 50%; 
-    background-image: url('/assets/img/slider/slider3.jpg') top center / cover no-repeat;
+    background: url('/assets/img/slider/slider3.jpg') top center / cover no-repeat;
     }   
 
 #slider .text-content{
